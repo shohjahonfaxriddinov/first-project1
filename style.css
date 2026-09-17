@@ -1,0 +1,38 @@
+body{
+background-color: #2A5D5A;
+}
+
+
+
+h1{
+    background-color: #311313;
+    width: 636px;
+    color: #ffff;
+    font-size: 64px;
+    margin: 22px 423px 61px 381px;
+    text-align: center;
+    padding: 24px 30px;
+}
+
+.center-box{
+width: 1000px;
+background-color: black;
+border: 10px solid #ff0606;
+margin-left: 220px;
+padding: 39px 52px;
+}
+
+.first{
+background-color: #1fe;
+padding: 54px 40px;
+
+}
+.second{
+background-color: #1fe;
+margin-top: 30px;
+padding: 54px 40px;
+
+}
+.first b, .second b{
+    font-size: 24px;
+}
